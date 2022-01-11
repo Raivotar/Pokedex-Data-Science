@@ -1,8 +1,7 @@
 # Pokedex
 
-* Analisando os dados dos pokemons usando pokedex.csv
-* Ler o arquivo csv
-* Criar uma função que gera o Radar Chart
-* Usando Regex para selecionar apenas os pokemons que começam com "Pid"
-* Plotar esses pokemons no Radar Chart usando a função criada
-* Comparar o atributo total dos pokemons lendários das diferentes gerações
+* Analyzing pokemon data using pokedex.csv
+* Create a function that generates the Radar Chart
+* Using Regex to select only pokemons that start with "Pid"
+* Plot these pokemons on Radar Chart using created function
+* Compare the total attribute of legendary pokemons from different generations
